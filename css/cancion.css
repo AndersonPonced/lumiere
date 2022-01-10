@@ -1,0 +1,46 @@
+body  {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+
+}
+
+.astor {
+  margin-left:450px;
+  width: 450px;
+  border: 1px solid #1f53c5;
+
+}
+
+
+audio {
+   align-items: center;
+  margin-left: 520px;
+}
+
+.boton {
+  text-align: center;
+  background-color: #232323;
+
+}
+
+.card1 {
+  width: 100px;
+
+
+}
+
+.navegador {
+background-color: #232323;
+ position: fixed;
+ top: 93%;
+ width: 1400px;
+ border: 1px solid yellow;
+ z-index: 50;
+
+
+}
+
+.nav-link {
+  color: white
+}
